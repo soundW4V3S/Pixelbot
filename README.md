@@ -9,4 +9,4 @@
 
 - Intended to be compiled for either x86/x86_64 Windows systems<br><br>
 
-- Thank you for reading! I hope you enjoy this project.
+- Thank you for reading! This was a little project I made for fun so my friends and I could test and use for little laughs. I hope you enjoy this project.
