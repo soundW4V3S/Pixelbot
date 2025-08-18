@@ -7,6 +7,6 @@
   
 - This program is intended for *1920x1080* Monitor screen sizes, and I do fully acknowledge that these numbers can be quickly adjusted to allow for more dynamic screen size checking. The plus side is that the source is fairly simple and hackable with documentation, and this can be added with minimal adjusting.<br><br>
 
-- Intended to be compiled for either x86/x86_64 systems<br><br>
+- Intended to be compiled for either x86/x86_64 Windows systems<br><br>
 
 - Thank you for reading! I hope you enjoy this project.
