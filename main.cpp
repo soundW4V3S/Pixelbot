@@ -62,9 +62,9 @@ int main()
 				SendInput(2, inp, sizeof(INPUT));
 				Sleep(10);										// Very brief pause, for processor resources
 				briefFlag++;
-				if (briefFlag == 30)							// Flag for knowing when to terminate clicking so computer doesn't die
+				if (briefFlag == 30)							// Flag for knowing when to terminate clicking. Less resource-intensive
 				{
-					std::cout << "thanx for usin." << std::endl;
+					std::cout << "thanks for using." << std::endl;
 					ReleaseDC(nullptr, screenDC);
 					return 0;
 				}
