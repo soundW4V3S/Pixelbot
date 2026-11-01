@@ -1,4 +1,4 @@
-# Simple Pixelbot for Roblox Death Penalty Showdown minigame
+# Pixelbot for Roblox Death Penalty Showdown minigame
 - Simple Pixelbot created for the Roblox game "Death Penalty", and its minigame "Showdown".<br><br>
 
 - This Pixelbot works by having the user adjust their in-game camera, such that the top-middle is focused on the minigame's Lamp. The Lamp, being initially Red in color, goes from it's color to a Green color, signifying that the in-game duel has now begun. Upon turning Green, the primary logic of the Pixelbot begins, where a server debounce check is performed quickly, and then the Windows API is used to simulate mouse clicking.<br><br>
